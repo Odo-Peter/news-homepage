@@ -34,8 +34,8 @@ Below is the screenshots of the challenge, the desktop view is 1440px and the mo
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Odo-Peter/news-homepage)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Git-Hub](https://github.com/Odo-Peter/news-homepage)
+- Live Site URL: [Live URL](https://news-homepage-odo-peter.vercel.app/)
 
 ## My process
 
